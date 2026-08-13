@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jerry modiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerry modiba" height="30" width="40" /></a>
 <a href="https://instagram.com/jerr_arty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jerr_arty" height="30" width="40" /></a>
-<a href="https://medium.com/@jerrymodiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jerrymodiba" height="30" width="40" /></a>
+<a href="https://medium.com/@Jerrymodiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jerrymodiba" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jerryart42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jerryart42" height="30" width="40" /></a>
 </p>
 
